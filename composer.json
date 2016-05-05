@@ -1,0 +1,20 @@
+{
+    "name": "phile/filterByKey",
+    "type": "phile-plugin",
+    "license": "MIT",
+    "description": "A plugin for Phile that adds a Twig function to filter a Page by a specific meta key",
+    "homepage": "http://philecms.com",
+    "keywords": ["cms","phile","twig","function","array_filter","reduce","meta"],
+    "authors": [
+        {
+            "name": "James Doyle",
+            "email": "james2doyle@gmail.com",
+            "homepage": "http://ohdoylerules.com/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "phile-cms/phile": ">=1",
+        "phile-cms/plugin-installer-plugin": ">=1"
+    }
+}
